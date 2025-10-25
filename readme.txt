@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git is difficult to handle.
 Creating a new branch is quick and simple.
+No Fast Forward.
